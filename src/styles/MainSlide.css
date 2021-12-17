@@ -1,0 +1,57 @@
+.CenterSlide {
+  width: 70%;
+  margin-top: 3rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media screen and (max-width : 600px) {
+  .CenterSlide{
+    width: 100%;
+  }
+  
+}
+
+.TitleText {
+  font-size: 40px;
+}
+.SubTitle {
+  margin-top: 2rem;
+  display: flex;
+}
+.by {
+  font-size: 25px;
+  font-weight: 350;
+}
+.Test {
+  color: #4e7dd3;
+  font-size: 25px;
+}
+.Title-Data {
+  margin-top: 2rem;
+  display: flex;
+  border-top: 1px solid rgb(194, 191, 191);
+  border-bottom: 1px solid rgb(194, 191, 191);
+  padding-top: 2rem;
+  margin-left: 2px;
+  padding-bottom: 2rem;
+}
+
+.PostDetails {
+  margin-left: 6px;
+}
+.BlogPicture {
+  margin-top: 4rem;
+}
+.TitleDiscription {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-size: 20px;
+ 
+}
+.footer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid rgb(182, 178, 178);
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
