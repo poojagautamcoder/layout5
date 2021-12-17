@@ -8,10 +8,7 @@ function App() {
   return (
     <div className="App">
     <Navbar/>
-    <div className = "Section-sector">
      <Home/>
-    </div>
-    
     </div>
   );
 }

@@ -1,7 +1,14 @@
 .CenterSlide {
-  width: 75%;
+  width: 70%;
   margin-top: 3rem;
-  margin-left: 3rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media screen and (max-width : 600px) {
+  .CenterSlide{
+    width: 100%;
+  }
+  
 }
 
 .TitleText {
@@ -22,7 +29,6 @@
 .Title-Data {
   margin-top: 2rem;
   display: flex;
-  width: 94%;
   border-top: 1px solid rgb(194, 191, 191);
   border-bottom: 1px solid rgb(194, 191, 191);
   padding-top: 2rem;
@@ -31,7 +37,7 @@
 }
 
 .PostDetails {
-  margin-left: 2px;
+  margin-left: 6px;
 }
 .BlogPicture {
   margin-top: 4rem;
@@ -40,12 +46,12 @@
   margin-top: 3rem;
   margin-bottom: 3rem;
   font-size: 20px;
-  width: 95%;
-}
-.paragraph {
-  width: 95%;
+ 
 }
 .footer {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  border-top: 1px solid rgb(182, 178, 178);
+  padding-top: 5rem;
+  padding-bottom: 2rem;
 }
