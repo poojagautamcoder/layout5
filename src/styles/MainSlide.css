@@ -1,0 +1,59 @@
+
+
+.CenterSlide{
+    width: 75%;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    
+    }
+    
+    
+    
+    
+    .TitleText{
+        font-size: 40px;
+    }
+    .SubTitle{
+        margin-top: 2rem;
+        display: flex;
+    
+    }
+    .by{
+        font-size: 25px;
+        font-weight: 350;
+    }
+    .Test{
+        color: #4e7dd3;
+    font-size: 25px;
+    }
+    .Title-Data{
+     margin-top: 2rem;
+     display: flex;
+     width: 94%;
+     border-top:  1px solid rgb(194, 191, 191) ;
+     border-bottom: 1px solid rgb(194, 191, 191);
+     padding-top: 2rem;
+     margin-left: 2px;
+     padding-bottom: 2rem;
+    
+    }
+    
+    .PostDetails{
+       margin-left: 2px;
+    }
+    .BlogPicture{
+        margin-top: 4rem;
+    }
+    .TitleDiscription{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        font-size: 20px;
+        width: 95%;
+    }
+    .paragraph{
+        width: 95%;
+    }
+    .footer{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
