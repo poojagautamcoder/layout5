@@ -14,4 +14,4 @@ const Clock = () => {
     </svg>
   );
 };
-export default Clock
+export default Clock;

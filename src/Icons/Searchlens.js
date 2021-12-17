@@ -14,4 +14,4 @@ const Searchlens = () => {
     </svg>
   );
 };
-export default Searchlens
+export default Searchlens;
